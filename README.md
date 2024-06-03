@@ -18,4 +18,4 @@ The following Python code was used to control the linear and split-belt treadmil
 - "linear_treadmill_belt_stim_videography.py"
 - "splitbelt_treadmill_belt_stim_videography.py"
 
-The .stl file for the chamber used in treadmill experiments is called, "Treadmill_Chamber.stl".
+The .stl and .f3d (Autodesk Fusion 360) files for the chamber used in treadmill experiments start with, "Treadmill_Chamber".
